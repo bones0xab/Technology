@@ -5,7 +5,6 @@ I Will crack this module i will give him just one weak instead of semestre and i
 
 #  Web Technologies & XML Cheatsheet
 ---
-# Web Technologies & XML Cheatsheet
 
 ## 1. Web Development Overview
 
