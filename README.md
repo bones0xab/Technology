@@ -1,7 +1,7 @@
 <h1 align="center">TP 2</h1>
 ---
 
-#Practical Work 
+# Practical Work 
 ---
 
 Write-up for **Exercise 1: Conversion de températures** in JavaScript. 
