@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Permutation Exercise</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Permutation Exercise</h1>
+    <form>
+        <label for="text1">Text 1:</label>
+        <input type="text" id="text1" name="text1"><br><br>
+        
+        <label for="text2">Text 2:</label>
+        <input type="text" id="text2" name="text2"><br><br>
+        
+        <button type="button" onclick="permuteText()">Permuter</button>
+    </form>
+
+    <script>
+        function permuteText() {
+            // Get the values of the two text fields
+            let text1 = document.getElementById('text1').value;
+            let text2 = document.getElementById('text2').value;
+
+            // Swap the values
+            document.getElementById('text1').value = text2;
+            document.getElementById('text2').value = text1;
+        }
+    </script>
+</body>
+</html>
