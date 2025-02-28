@@ -111,10 +111,12 @@ button:hover {
 ## Screenshots
 
 ### Initial State
-[Insert screenshot of the form with sample text in both fields]
+![image](https://github.com/user-attachments/assets/62d5bb16-fdcb-495e-a8dc-6fd8d449011e)
+
 
 ### After Clicking "Permuter" Button
-[Insert screenshot showing the text values have been swapped]
+![image](https://github.com/user-attachments/assets/dee5017d-79a5-4f88-88d3-1edccc4058ee)
+
 
 ----
 
@@ -259,13 +261,15 @@ button:hover {
 ## Screenshots
 
 ### Initial State
-[Insert screenshot of the calculator with empty fields]
+![image](https://github.com/user-attachments/assets/e9d6fb5c-da02-4d75-890c-6cacdf7b9d18)
+]
 
 ### Addition Example
-[Insert screenshot showing 5 + 3 = 8]
+Using the multiplication example we got : 
 
-### Division by Zero Error
-[Insert screenshot showing the division by zero error message]
+![image](https://github.com/user-attachments/assets/c4e7628a-29da-4b78-a842-6d0e3429fb9c)
+
+
 
 ***
 
@@ -436,13 +440,11 @@ function calculateBMI() {
 ## Screenshots
 
 ### Initial State
-[Insert screenshot of the empty BMI calculator form]
+![image](https://github.com/user-attachments/assets/691f9c68-92f3-4139-bfa9-b4e6a92b83f2)
 
 ### Example Calculation
-[Insert screenshot showing a BMI calculation with result and category]
+![image](https://github.com/user-attachments/assets/52765084-e9a5-41ee-941f-a4e708fa24c5)
 
-### Validation Error
-[Insert screenshot showing the validation error message]
 
 
 ***
@@ -590,17 +592,22 @@ button:active {
 ## Screenshots
 
 ### Initial State
-[Insert screenshot of the empty calculator]
+![image](https://github.com/user-attachments/assets/f59f2c6b-88b0-41ed-b173-51d28a10b08e)
 
 ### Basic Arithmetic Example
-[Insert screenshot showing a basic calculation like 12 + 34 = 46]
+![image](https://github.com/user-attachments/assets/66e4bad3-2fe5-4d0e-b0e2-3588473b12af)
+
+After calculating
+![image](https://github.com/user-attachments/assets/8485f4a7-a2c1-425f-bbfb-9240bce5de81)
+
 
 ### Scientific Function Example
-[Insert screenshot showing a scientific calculation like sin(30) or sqrt(16)]
+![image](https://github.com/user-attachments/assets/a6b233ea-42a8-4944-80c9-e528cbc2be95)
 
 ### Error Handling
 [Insert screenshot showing the error alert for an invalid expression]
 
+![image](https://github.com/user-attachments/assets/f00c68a6-efca-41f8-bdbc-8a18951ab042)
 
 ***
 
